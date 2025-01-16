@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladis1av-code) 
 
 # My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,git,github,vscode,postman,sql&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,git,github,vscode,postman&perline=13)](#)
 
   
 
