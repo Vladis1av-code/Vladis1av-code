@@ -9,14 +9,7 @@
 
 <table>
   <h1> Tech Stack </h1>
- <h1>Backend:</h1>
- <tr>
-  <td aling="center" width="96">
-   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
- </tr>
- </table>
- <table>
- <h1>Frontend:</h1>
+   <h1>Frontend:</h1>
  <tr>
   <td aling="center" width="96">
    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -24,8 +17,15 @@
    <td aling="center" width="96">
      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
    </td>
-   
  </tr>
+ </table>
+ <table>
+ <h1>Backend:</h1>
+ <tr>
+  <td aling="center" width="96">
+   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+ </tr>
+  
  </table>
   
 
