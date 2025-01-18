@@ -9,7 +9,6 @@
 
 <table>
   <h1> Tech Stack </h1>
-  <hr>
  <h1>Backend:</h1>
  <tr>
   <td aling="center" width="96">
