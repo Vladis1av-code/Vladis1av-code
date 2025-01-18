@@ -12,7 +12,9 @@
    <h1>Frontend:</h1>
  <tr>
   <td aling="center" width="96">
-   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <br>
+    JavaScript
   </td>
    <td aling="center" width="96">
      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
