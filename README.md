@@ -7,20 +7,28 @@
 # My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,expressjs,nodejs,git,github,vscode,postman&perline=13)](#)
 
+<style>
+  .text
+  {
+     font-family: 'Trebuchet MS', sans-serif;
+  }
+  
+</style>
 <table>
   <h1> Tech Stack </h1>
    <h1>Frontend:</h1>
  <tr>
   <td aling="center" width="96">
    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-    <br>JavaScript
+    <br><div class="text">JavaScript</div>
   </td>
    <td aling="center" width="96">
      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-     <br>⠀ Sass
+     <br>⠀ <div class="text">Sass</div>
    </td>
    <td aling="center" width="96">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="61" height="61" />
+     <br>
    </td>
  </tr>
  </table>
