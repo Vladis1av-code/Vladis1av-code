@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vladis1av-code's+GitHub+Profile!)](https://git.io/typing-svg)
+##👋 Welcome to My GitHub!
 
 
 # Github  Statistics
