@@ -57,7 +57,7 @@
       <br>Postman
     </td>
     <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" />
       <br>GitHub
     </td>
   </tr>
