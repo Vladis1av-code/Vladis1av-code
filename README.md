@@ -60,10 +60,6 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
   </tr>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48" alt="HTML" />
@@ -72,6 +68,10 @@
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="48" height="48" alt="CSS" />
       <br>CSS
+    </td>
+   <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
   </tr>
 </table>
