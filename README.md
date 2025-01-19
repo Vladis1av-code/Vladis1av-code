@@ -1,7 +1,7 @@
 ## 👋 Welcome to My GitHub!
 
 
-# Github  Statistics
+# ![image](https://github.com/user-attachments/assets/775b89e1-c54d-47db-b09f-e5448be75714) Github  Statistics
 <div align="center">
         <h2 align="center" class="section-heading"></h2>
         <p></p>
