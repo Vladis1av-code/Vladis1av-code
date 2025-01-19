@@ -2,8 +2,27 @@
 
 
 # Github  Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladis1av-code&exclude_repo=github-readme-stats,anuraghazra.github.io)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladis1av-code) 
+![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladis1av-code&theme=default&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladis1av-code&layout=compact)
+
+<div align="center">
+        <h2 align="center" class="section-heading"></h2>
+        <p></p>
+        <table align="center" width="100%" height="100%" >
+            <tr>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishall21&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
+                <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Vladis1av-code&theme=merko" alt="Vladis1av-code Contribution Streak"/></td>
+            </tr>
+        </table>
+        <table align="center" width="100%" height="100%" >
+            <tr>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vladis1av-code&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vladis1av-code&theme=github_dark&utcOffset=10" alt="Ishall21 GitHub Stats"/>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vladis1av-code&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
+                <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vladis1av-code&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
+            </tr>
+        </table>
+    </div>
 
 # 🛠 Tech Stack
 <table>
