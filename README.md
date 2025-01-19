@@ -2,9 +2,6 @@
 
 
 # Github  Statistics
-![Ishall21 GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladis1av-code&theme=default&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladis1av-code&layout=compact)
-
 <div align="center">
         <h2 align="center" class="section-heading"></h2>
         <p></p>
