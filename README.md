@@ -11,7 +11,6 @@
         <table align="center" width="100%" height="100%" >
             <tr>
                 <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vladis1av-code&theme=github_dark" alt="Ishall21 GitHub Stats"/></td>
-                <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Vladis1av-code&theme=merko" alt="Vladis1av-code Contribution Streak"/></td>
             </tr>
         </table>
         <table align="center" width="100%" height="100%" >
